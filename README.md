@@ -1,10 +1,10 @@
 # AnaliseDeDadosDeVenda
 AnaliseDeDadosDeVenda
 
-#versão
+# versão
 java 12
 
-#diretorio
+# diretorio
 C:\HOMEPATH\data\in
 C:\HOMEPATH\data\out
 
